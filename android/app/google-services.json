@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "611209880352",
+    "project_id": "getitbeauty-1d292",
+    "storage_bucket": "getitbeauty-1d292.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611209880352:android:335165c038581c59a46d45",
+        "android_client_info": {
+          "package_name": "com.example.grpproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611209880352-306jptvi4o99pgpejttjhd15mca7784j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4zrsy43i4XMGIY5spxt4anjbD3W12mE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611209880352-306jptvi4o99pgpejttjhd15mca7784j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
